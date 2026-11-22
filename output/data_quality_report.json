@@ -1,0 +1,22 @@
+{
+  "gerado_em_utc": "2026-11-22T02:29:48.701444+00:00",
+  "status": "APROVADO",
+  "total_registros": 1080,
+  "registros_unicos_chave": 1080,
+  "checks": {
+    "schema_ok": true,
+    "colunas_faltantes": [],
+    "unicidade_ok": true,
+    "intervalo_ok": true,
+    "violacoes_intervalo": 0
+  },
+  "null_ratio": {
+    "codigo_pais": 0.0,
+    "nome_pais": 0.0,
+    "ano": 0.0,
+    "mes": 0.0,
+    "temp_media_mensal_c": 0.0,
+    "chuva_total_mensal_mm": 0.0,
+    "agro_pct_pib": 0.1
+  }
+}
